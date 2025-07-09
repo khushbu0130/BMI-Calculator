@@ -16,5 +16,5 @@ document.getElementById('btn').addEventListener('click', () => {
   const bmi = weight / (heightInMeters * heightInMeters);
   const bmio = bmi.toFixed(2);
 
-  document.getElementById('result').innerHTML = Your BMI is ${bmio};
+  document.getElementById('result').innerHTML = `Your BMI is ${bmio}`;
 });
