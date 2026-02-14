@@ -7,7 +7,7 @@ It allows users to calculate their BMI based on height and weight and displays t
 
 ## 🚀 Live Demo
 
-👉 
+👉 https://khushbu0130.github.io/BMI-Calculator/
 
 ---
 
