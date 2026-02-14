@@ -65,13 +65,13 @@ JavaScript (Vanilla JS)
 
 BMI Range	Category
 
-Less than 18.5	Underweight
+Less than 18.5	- Underweight
 
-18.5 – 24.9	Ideal
+18.5 – 24.9  -	Ideal
 
-25 – 29.9	Overweight
+25 – 29.9	 - Overweight
 
-30 and above	Obesity
+30 and above	- Obesity
 
 ---
 
@@ -95,6 +95,7 @@ Category is displayed accordingly
 ## 📂 Project Structure
 
 BMI-Calculator/
+
 │
 
 ├── index.html
